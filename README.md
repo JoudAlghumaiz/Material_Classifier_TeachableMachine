@@ -15,7 +15,8 @@ This project addresses the task of visually identifying material types based on 
         * `Conductor` (e.g., metals like copper, aluminum)
         * `Insulator` (e.g., plastic, rubber, wood)
         * `Semiconductor` (e.g., silicon wafers, microchips)
-    * **Model Evaluation:** <img width="2830" height="1516" alt="trained model result" src="https://github.com/user-attachments/assets/e4035faa-569e-4eb9-966b-b993e0369625" />
+    * **Model Evaluation:** <<img width="2830" height="1516" alt="material_classifier_output" src="https://github.com/user-attachments/assets/7f40cd0d-c0cf-48db-9315-156fa81cdd00" />
+" />
 The model was thoroughly evaluated within Teachable Machine's environment. It achieved high accuracy (over 95%) on the validation data, demonstrating a strong ability to accurately distinguish between the visual characteristics of conductors, insulators, and semiconductors.
 
 2.  **Model Export:** The trained model was downloaded in TensorFlow/Keras format.

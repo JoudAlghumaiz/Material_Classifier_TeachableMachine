@@ -1,0 +1,3 @@
+0 Conductors
+1 Insulators
+2 Semiconductors
